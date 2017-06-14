@@ -3,7 +3,7 @@
 #include <cstdio>
 #include <iomanip>
 #include "DNN.hpp"
-#include "loadMNIST.hpp"
+#include "LoadMNIST.hpp"
 
 using namespace std;
 using namespace Eigen;
