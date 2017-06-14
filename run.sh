@@ -1,4 +1,6 @@
 #!/bin/sh
+mkdir MNIST
+mkdir SAVE
 cd MNIST
 wget http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
 wget http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz
